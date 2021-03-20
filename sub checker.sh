@@ -3,8 +3,8 @@
 
 if [ "$1" == "" ]
 then
-echo "How to use : ./sub_finder.sh <sub list>"
-echo "Ex : ./sub_finder.sh sub_list.txt"
+echo "How to use : ./sub checker.sh <sub list>"
+echo "Ex : ./sub checker.sh sub_list.txt"
 
 else
 
